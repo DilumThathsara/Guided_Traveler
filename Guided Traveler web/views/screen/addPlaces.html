@@ -1,0 +1,98 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up Form</title>
+    <link href='https://fonts.googleapis.com/css?family=Nunito:400,300' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="CSS/style.css" />
+</head>
+
+<body>
+    <div class="row">
+        <div class="col-md-12">
+            <form action="index.html" method="post">
+                <h1> Add Special Offers</h1>
+
+                <fieldset>
+                    <label for="name">Add Special Offers Title:</label>
+                    <input type="text" id="Offers" name="Offers">
+
+                    <label for="name">Select image: </label>
+                    <input type="text" id="img" name="img">
+
+
+                    <br><br><br>
+
+                    <label for="desc">description:</label>
+                    <textarea id="desc" name="desc"></textarea>
+
+                </fieldset>
+
+                <button type="button" id="submitData" name="submitData">Add</button>
+
+            </form>
+            <script type="module">
+
+                import { initializeApp } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-app.js";
+                import { getFirestore, setDoc, addDoc, doc, collection } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-firestore.js";
+                import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-analytics.js";
+
+
+                // Your web app's Firebase configuration
+                const firebaseConfig = {
+                    apiKey: "AIzaSyCo-FzB5qhRzfBCVPlBEcX_As1ercpCn78",
+                    authDomain: "guided-traveler.firebaseapp.com",
+                    databaseURL: "https://guided-traveler-default-rtdb.firebaseio.com",
+                    projectId: "guided-traveler",
+                    storageBucket: "guided-traveler.appspot.com",
+                    messagingSenderId: "870682354873",
+                    appId: "1:870682354873:web:782374defda1d0eb90a768",
+                    measurementId: "G-KCD3E97PLC"
+                };
+
+                // Initialize Firebase
+                const app = initializeApp(firebaseConfig);
+                // Initialize Cloud Firestore and get a reference to the service
+                const db = getFirestore(app);
+                const analytics = getAnalytics(app);
+
+
+
+
+
+                submitData.addEventListener('click', (e) => {
+
+                    var Offers = document.getElementById('Offers').value;
+                    var OffersImg = document.getElementById('img').value;
+                    var OffersDesc = document.getElementById('desc').value;
+
+                    if(Offers){
+                        setDoc(doc(db, "SpecialOffers", Offers), {
+                            Offers: Offers,
+                            img: OffersImg,
+                            desc: OffersDesc
+
+                        }).then(() => {
+
+                            // window.close();
+                            alert("Offer is added")
+                            
+
+                        });
+                    } else {
+                        alert("please check the details")
+                    }
+                    
+
+                });
+
+
+            </script>
+        </div>
+    </div>
+
+</body>
+
+</html>

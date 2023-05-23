@@ -1,0 +1,159 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dashboard</title>
+
+    <link rel="stylesheet" type="text/css" href="CSS/homeStyle.css" />
+</head>
+
+<body>
+    <div class="sideBarre">
+        <div class="sideBarre__logo">
+            <h1>Guided Traveler</h1>
+        </div>
+        <div class="sideBarre__menu">
+            <ul>
+                <li><a href="users">Users </a></li>
+                <li><a href="Organizer">Organizer</a></li>
+                <li><a href="map">Map</a></li>
+                <li><a href="addPlaces">Add Offers</a></li>
+                <!--<li><a href="#">Update Places</a></li> -->
+                <!-- <li><a href="signup">Delete Places</a></li>
+                <li><a href="login">login Places</a></li> -->
+                <li><a href="tracking">tracking User</a></li>
+
+                <li><a href="sendNotification">Send Notification for organizers</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="mainContent">
+        <nav>
+            <div class="user">
+
+            </div>
+        </nav>
+
+        <div class="boxContent">
+            <div class="firstRow">
+                <div class="cardOne">
+                    <div class="description">
+                        <p>Total Users</p>
+                        <h3 id="users"> </h3>
+                    </div>
+                </div>
+                <div class="cardTwo">
+                    <div class="description">
+                        <p>Total With Driver Vehicle</p>
+                        <h3 id="withDrivers"></h3>
+                    </div>
+                </div>
+                <div class="cardThree">
+                    <div class="description">
+                        <p>Total With Out Driver Vehicle</p>
+                        <h3 id="withOutDrivers"></h3>
+                    </div>
+                </div>
+                
+                <div class="cardFour">
+                    <div class="description">
+                        <p>Total Hotels</p>
+                        <h3 id="hotelDetails"></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+
+<script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-firestore.js"></script>
+
+<script id="MainScript">
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const firebaseConfig = {
+            apiKey: "AIzaSyCo-FzB5qhRzfBCVPlBEcX_As1ercpCn78",
+            authDomain: "guided-traveler.firebaseapp.com",
+            databaseURL: "https://guided-traveler-default-rtdb.firebaseio.com",
+            projectId: "guided-traveler",
+            storageBucket: "guided-traveler.appspot.com",
+            messagingSenderId: "870682354873",
+            appId: "1:870682354873:web:782374defda1d0eb90a768",
+            measurementId: "G-KCD3E97PLC"
+        };
+
+    firebase.initializeApp(firebaseConfig);
+        let db = firebase.firestore();
+
+        function GetAllDataRealtime() {
+            var length;
+            var length1;
+            var length2;
+            db.collection("users").onSnapshot((querySnapshot) => {
+                var users = [];
+                querySnapshot.forEach(doc => {
+                    users.push(doc.data());
+                    length = users.length;
+                });
+
+                document.getElementById("users").innerHTML = length;
+
+
+
+                console.log(length);
+
+            });
+
+            db.collection("withDrivers").onSnapshot((querySnapshot) => {
+                var organizers = [];
+                querySnapshot.forEach(doc => {
+                    organizers.push(doc.data());
+                    length1 = organizers.length;
+                });
+
+                document.getElementById("withDrivers").innerHTML = length1;
+
+                console.log(length1);
+
+            });
+
+            db.collection("withOutDrivers").onSnapshot((querySnapshot) => {
+                var bookings = [];
+                querySnapshot.forEach(doc => {
+                    bookings.push(doc.data());
+                    length2 = bookings.length;
+                });
+
+                document.getElementById("withOutDrivers").innerHTML = length2;
+
+                console.log(length2);
+
+            });
+
+            db.collection("hotelDetails").onSnapshot((querySnapshot) => {
+                var bookings = [];
+                querySnapshot.forEach(doc => {
+                    bookings.push(doc.data());
+                    length2 = bookings.length;
+                });
+
+                document.getElementById("hotelDetails").innerHTML = length2;
+
+                console.log(length2);
+
+            });
+
+        }
+
+        window.onload = GetAllDataRealtime;
+
+</script>
+
+</body>
+
+</html>

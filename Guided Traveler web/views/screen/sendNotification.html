@@ -1,0 +1,95 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>add notification</title>
+    <link href='https://fonts.googleapis.com/css?family=Nunito:400,300' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="CSS/style.css" />
+</head>
+
+<body>
+    <div class="row">
+        <div class="col-md-12">
+            <form action="./home.html" method="post">
+                <h1> Add Notification </h1>
+
+                <fieldset>
+                    <label for="name">Topic :</label>
+                    <input type="text" id="notiTopic" name="notiTopic">
+
+                    <label for="name">Special for :</label>
+                    <input type="text" id="notiSpecialFor" name="notiSpecialFor" placeholder="Vehicle Owner or Hotel Owner">
+                  
+                    <label for="desc">Massage :</label>
+                    <textarea type="text" id="notiMassage" name="notiMassage"></textarea>
+
+                </fieldset>
+
+                <button type="button" id="submitData" name="submitData" >Add</button>
+
+            </form>
+        </div>
+    </div>
+
+</body>
+<script type="module">
+
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-app.js";
+    import { getFirestore, setDoc, addDoc, doc, collection } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-firestore.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-analytics.js";
+
+
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+        apiKey: "AIzaSyCo-FzB5qhRzfBCVPlBEcX_As1ercpCn78",
+        authDomain: "guided-traveler.firebaseapp.com",
+        databaseURL: "https://guided-traveler-default-rtdb.firebaseio.com",
+        projectId: "guided-traveler",
+        storageBucket: "guided-traveler.appspot.com",
+        messagingSenderId: "870682354873",
+        appId: "1:870682354873:web:782374defda1d0eb90a768",
+        measurementId: "G-KCD3E97PLC"
+    };
+
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    // Initialize Cloud Firestore and get a reference to the service
+    const db = getFirestore(app);
+    const analytics = getAnalytics(app);
+
+    submitData.addEventListener('click', (e) => {
+        
+        var notiTopic = document.getElementById('notiTopic').value;
+        var notiSpecialFor = document.getElementById('notiSpecialFor').value;
+        var notiMassage  = document.getElementById('notiMassage').value;
+        
+        if(notiTopic != "" && notiSpecialFor != "" && notiMassage != ""){
+            setDoc(doc(db, "organiserNotification", notiTopic), {
+
+                notiTopic: notiTopic,
+                notiSpecialFor: notiSpecialFor,
+                notiMassage: notiMassage,
+
+
+            }).then(() => {
+
+                alert("Nortification is sent")
+                console.info("data add");
+            });
+            
+        }else{
+            alert("please check the details")
+        }
+        
+    });
+
+
+
+
+</script>
+
+
+
+</html>

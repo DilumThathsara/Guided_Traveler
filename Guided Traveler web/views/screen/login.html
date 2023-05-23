@@ -1,0 +1,120 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="author" content="Yinka Enoch Adedokun">
+
+        <link rel="stylesheet" type="text/css" href="CSS/login.css" />
+        <title>Login Page</title>
+    </head>
+    
+    <body>
+        
+        <div class="container-fluid">
+            <div class="row main-content bg-success text-center">
+                <div class="col-md-4 text-center company__info" >
+                    <span class="company__logo">
+                        <img src="assets/logo.png" alt="logo">
+                        <h2><span class="fa fa-android"></span></h2>
+                    </span>
+                    <h2 class="company_title">Guided Traveler Admin</h2>
+                </div>
+                <div class="col-md-8 col-xs-12 col-sm-12 login_form ">
+                    
+                        <div class="row">
+                            <h2>&nbsp;&nbsp;&nbsp;&nbsp; Log In</h2>
+                        </div>
+                        
+                            <form method="post" class="form-group">
+                                <div class="row">
+                                    <input type="text" name="email" id="email" class="form__input"
+                                        placeholder="email">
+                                </div>
+                                <div class="row">
+                                    
+                                    <input type="password" name="password" id="password" class="form__input"
+                                        placeholder="Password">
+                                </div>
+                                
+                                <div class="row">
+                                    <button type="button" id="login" name="login" class="btn">Login</button>
+                                    <!-- <input type="button" value="Login" class="btn" id="login"> -->
+                                </div>
+                                <a href="signup" ><h4>Don't you have an account?</h4></a>
+                            </form>
+
+                </div>
+            </div>
+        </div>
+        
+    </body>
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.10/firebase-app.js";
+        import {
+            getAuth,
+            createUserWithEmailAndPassword,
+            signInWithEmailAndPassword,
+            signOut
+        } from "https://www.gstatic.com/firebasejs/9.6.10/firebase-auth.js";
+        import { getDatabase, set, ref, update } from "https://www.gstatic.com/firebasejs/9.6.10/firebase-database.js";
+
+        // TODO: Add SDKs for Firebase products that you want to use
+        // https://firebase.google.com/docs/web/setup#available-libraries
+
+        // Your web app's Firebase configuration
+        const firebaseConfig = {
+            apiKey: "AIzaSyCo-FzB5qhRzfBCVPlBEcX_As1ercpCn78",
+            authDomain: "guided-traveler.firebaseapp.com",
+            databaseURL: "https://guided-traveler-default-rtdb.firebaseio.com",
+            projectId: "guided-traveler",
+            storageBucket: "guided-traveler.appspot.com",
+            messagingSenderId: "870682354873",
+            appId: "1:870682354873:web:782374defda1d0eb90a768",
+            measurementId: "G-KCD3E97PLC"
+        };
+
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const database = getDatabase(app);
+        const auth = getAuth();
+
+        login.addEventListener('click', (e) => {
+
+            var email = document.getElementById('email').value;
+            var password = document.getElementById('password').value;
+
+            signInWithEmailAndPassword(auth, email, password)
+                .then((userCredential) => {
+
+                    const user = userCredential.user;
+
+
+                    var lgDate = new Date();
+                    update(ref(database, 'AdminValidations/' + user.uid), {
+                        last_login: lgDate,
+                    })
+                        .then(() => {
+                            alert("sussess login");
+
+                            window.location.href = "homeRouter";
+
+                        })
+                        .catch((error) => {
+
+                            alert(error);
+                        });
+                })
+                .catch((error) => {
+                    const errorCode = error.code;
+                    const errorMessage = error.message;
+           
+                    alert(errorMessage);
+                });
+
+        });
+
+
+
+    </script>
+</html>
