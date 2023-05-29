@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "870682354873",
+    "project_id": "guided-traveler",
+    "storage_bucket": "guided-traveler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870682354873:android:5d4495b516bad83f90a768",
+        "android_client_info": {
+          "package_name": "com.example.guided_traveler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870682354873-ide4psnrqclkbuu90ecntuculfe53tm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRH8feLK6Z7snLoZmZSAELeDkfXrCXSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870682354873-ide4psnrqclkbuu90ecntuculfe53tm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "870682354873-2e8ot9b54hur1seurk5obn1mpob4lfi6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.guidedTraveler"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
