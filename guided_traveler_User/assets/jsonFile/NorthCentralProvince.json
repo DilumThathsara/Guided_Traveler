@@ -1,0 +1,47 @@
+{
+    "province": "NorthCentral ",
+    "data": [
+        {
+            "placeId": 1,
+            "placeTile": "Ruwanweli Maha Seya",
+            "placeDescription": "The Ruwanweli Maha Seya, also known as the Mahathupa, is a stupa in Anuradhapura, Sri Lanka. Two quarts or one Dona of the Buddha's relics are enshrined in the stupa, making it the largest collection of his relics anywhere. It was built by Sinhalese King Dutugemunu in c. 140 B.C., who became king of Sri Lanka after a war in which the Chola King Elāra was defeated. It is also known as Swarnamali Seya, Svaṇṇamāli Mahaceti and Rathnamali Seya. This is one of the 'Solosmasthana' and the 'Atamasthana'. The stupa is one of the world's tallest ancient monuments, standing at 103 m and with a circumference of 290 m. The original stupa had been about 55 m in height and was renovated by many kings. The Kaunghmudaw Pagoda in Sagaing, Myanmar is modelled after this stupa The Mahavamsa contains a detailed account on the construction and the opening ceremony of the stupa. The stupa was covered by wilderness as of the 19th century. After fund raising efforts by a bhikkhu, it was renovated in the early 20th century.",
+            "placeImage": "https://lh3.googleusercontent.com/p/AF1QipPM8U7zrqJ4EW_EgWtR5EGNZWwU0Ybd6BUW6s2F=w296-h202-n-k-rw-no-v2"
+        },
+        {
+            "placeId": 2,
+            "placeTile": "Sri Maha Bodhi",
+            "placeDescription": "Jaya Sri Maha Bodhi is a historical sacred bo tree in the Mahamewuna Garden in historical city of Anuradhapura, Sri Lanka. This is believed to be a tree grown from a cutting of the southern branch from the historical sacred bo tree, Sri Maha Bodhi, which was destroyed during Emperor Ashoka the Great time, at Buddha Gaya in India, under which Siddhartha Gautama attained Enlightenment. The Buddhist nun Sangamitta Maha Theri, a daughter of Indian Emperor Ashoka, in 288 BC, brought the tree cutting to Sri Lanka during the reign of Sinhalese King Devanampiya Tissa. At more than 2,300 years old, it is the oldest living human-planted tree in the world with a known planting date. The Mahavamsa, or the great chronicle of the Sinhalese, provides an elaborate account of the establishment of the Jaya Siri Maha Bodhi on the Island and the subsequent development of the site as a major Buddhist pilgrimage site. Today, the Jaya Siri Maha Bodhi is situated on a high terrace, about 6.5 meters above the ground, and surrounded by 4 other lower-level terraces with Bo trees called “Parivara Bodhi” planted for its protection.",
+            "placeImage": "https://www.dailynews.lk/sites/default/files/news/2022/05/13/pg6-1.jpg"
+        },
+        {
+            "placeId": 3,
+            "placeTile": "Polonnaruwa Gal Viharaya",
+            "placeDescription": "The Gal Vihara, and known originally as the Uttararama, is a rock temple of the Adinath situated in the ancient city of Polonnaruwa, the capital of the ancient Kingdom of Polonnaruwa, now present-day Polonnaruwa, in North Central Province, Sri Lanka. It was fashioned in the 12th century by King Parakramabahu I. The central feature of the temple is four rock relief statues of the Buddha, which have been carved into the face of a large granite gneiss rock. The images consist of a large seated figure, another smaller seated figure inside an artificial cavern, a standing figure, and a reclining figure. These are considered to be some of the best examples of ancient Sinhalese sculpting and carving arts, and have made the Gal Vihara the most visited monument at Polonnaruwa. The images of Uttararama follow a different style from the images of the previous Anuradhapura period, and show some significant differences. The identity of the standing image is subject to a certain amount of dispute among historians and archaeologists, some of whom argue that it depicts the monk Ananda rather than the Buddha.",
+            "placeImage": "https://www.attractionsinsrilanka.com/wp-content/uploads/2020/02/Gal-Viharaya-1.jpg"
+        },
+        {
+            "placeId": 4,
+            "placeTile": "Minneriya National Park",
+            "placeDescription": "Minneriya National Park is a national park in North Central Province of Sri Lanka. The area was designated as a national park on 12 August 1997, having been originally declared as a wildlife sanctuary in 1938. The reason for declaring the area as protected is to protect the catchment of Minneriya tank and the wildlife of the surrounding area. The tank is of historical importance, having been built by King Mahasen in third century AD. The park is a dry season feeding ground for the elephant population dwelling in forests of Matale, Polonnaruwa, and Trincomalee districts. The park earned revenue of Rs. 10.7 million in the six months ending in August 2009. Along with Kaudulla and Girithale, Minneriya forms one of the 70 Important Bird Areas of Sri Lanka. The park is situated 182 kilometres from Colombo.",
+            "placeImage": "https://www.civitatis.com/f/sri-lanka/sigiriya/galeria/safari-elefantes-minneriya.jpg"
+        },
+        {
+            "placeId": 5,
+            "placeTile": "Anuradhapura City",
+            "placeDescription": "Anuradhapura is known as the sacred world heritage city due to the presence of attractions like Jetavanaramaya. It is a stupa and is believed to be a part of the belt tied by Buddha during his days. Jetavanaramaya is counted among the most famous tourist places in the city.",
+            "placeImage": "https://www.sankileisure.com/wp-content/uploads/2020/07/Anuradhapura-city.jpg"
+        },
+        {
+            "placeId": 6,
+            "placeTile": "Nissankalata Mandapa",
+            "placeDescription": "Nissanka Latha Mandapaya is a unique structure in the old city of Polonnaruwa in North Central Province, Sri Lanka. Built by King Nissanka Malla and named after him, it is located near the western entrance of the Dalada Maluva, the area that has the oldest and the holiest monuments in the city.",
+            "placeImage": "https://thumbs.dreamstime.com/b/nissankalata-mandapa-polonnaruwa-sri-lanka-11182618.jpg"
+        },
+        {
+            "placeId": 7,
+            "placeTile": "Wasgamuwa National Park",
+            "placeDescription": "It is a natural park in Sri Lanka located 225 km away from Colombo in Matale and Polonnaruwa. It is also one of the protected areas where you can see Sri Lankan Elephants in large crowds. It is also one of the important birds areas in the country.",
+            "placeImage": "https://www.attractionsinsrilanka.com/wp-content/uploads/2019/09/Wasgamuwa-National-Park-1.jpg"
+        }
+    ]
+}

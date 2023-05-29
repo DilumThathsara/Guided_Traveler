@@ -1,0 +1,41 @@
+{
+    "province": "Uva ",
+    "data": [
+        {
+            "placeId": 1,
+            "placeTile": "Nine Arch Bridge",
+            "placeDescription": "It is also called the bridge in the sky, a viaduct bridge near the small town of Ella. It is one of the examples of colonial-era railway structures in the country. The bridge's construction is generally attributed to a local Ceylonese builder, P. K. Appuhami, in consultation with British engineers.",
+            "placeImage": "https://destinationlesstravel.com/wp-content/uploads/2019/05/DSC_9600-1-1024x684-1024x684.jpg"
+        },
+        {
+            "placeId": 2,
+            "placeTile": "Haputale",
+            "placeDescription": "Haputale is a town in Badulla District in the Uva Province, Sri Lanka. The elevation is 1431 meters (4695 feett) above the sea level. Home of the Adisham Bungalow (St Benedict's Monastery) a nineteenth-century British period building, which was modeled on Leeds Castle in Kent, England.",
+            "placeImage": "https://www.srilankainstyle.com/storage/app/media/haputale/haputale-1.jpg"
+        },
+        {
+            "placeId": 3,
+            "placeTile": "Dunhinda Falls",
+            "placeDescription": "The waterfall is located about 5 km from Badulla in Uva Province, Sri Lanka. It is 64 meters high. The waterfall is formed in the Badulu Oya Revier.",
+            "placeImage": "https://www.attractionsinsrilanka.com/wp-content/uploads/2019/09/Dunhinda-Falls-2.jpg"
+        },
+        {
+            "placeId": 4,
+            "placeTile": "Ella Rock",
+            "placeDescription": "Around 8km from Ella town and 50 minutes walking, you will reach this rock, 1,041 meters above the sea. It is a great destination for hiking and discovering beautiful scenaries in the way.",
+            "placeImage": "https://www.attractionsinsrilanka.com/wp-content/uploads/2019/09/Ella-Rock.jpg"
+        },
+        {
+            "placeId": 5,
+            "placeTile": "Lipton's Seat",
+            "placeDescription": "The Lipton’s Seat is one of Sri Lanka's most impressive viewpoints. Dambatenna Tea factory is close to the famous Lipton Seat viewpoint, that built in 1890 by the Scottish tea baron Sir Thomas Lipton.",
+            "placeImage": "https://mahaweli.lk/wp-content/uploads/2022/09/Liptons-Seat-Haputale-965x530.jpg"
+        },
+        {
+            "placeId": 6,
+            "placeTile": "Rawana Falls",
+            "placeDescription": "Ravana Falls is famous waterfall in Sri Lanka. It is one of the widest falls in the country and the waterfall is about 25 m in height. It falls from part of the Ravana Ella Wildlife Sanctuary, located 6 km away from the local railway station at Ella. According to the Indian epic, the Ramayana, it is said that Ravana (who was the king of Sri Lanka at the time) had kidnapped princess Sita, and hid her in the caves behind this waterfall.",
+            "placeImage": "https://www.traxplorio.com/wp-content/uploads/2021/09/3-1.jpg"
+        }
+    ]
+}

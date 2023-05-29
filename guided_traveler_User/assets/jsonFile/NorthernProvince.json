@@ -1,0 +1,53 @@
+{
+    "province": "Northern",
+    "data": [
+        {
+            "placeId": 1,
+            "placeTile": "Nallur Kandaswamy Temple",
+            "placeDescription": "Nallur Kandaswamy Kovil is a significant Hindu temple, located in Nallur, Northern Province, Sri Lanka. The presiding deity is Lord Murugan in the form of the holy 'Vel' in the Sanctum, the primary shrine, and in other forms, namely, Shanmugar, Muthukumaraswami, Valli Kaanthar with consorts Valli and Deivayanai, and Thandayuthapani, sans consorts in secondary shrines in the temple",
+            "placeImage": "https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,h_600,q_auto,w_auto/v1/filestore/hli09i5x8askioge3t5sju784zdv_1482738006_14ra2014.jpg"
+        },
+        {
+            "placeId": 2,
+            "placeTile": "Nagadeepa Buddhist Temple",
+            "placeDescription": "Nagadeepa Purana Vihara is an ancient Buddhist temple situated in Jaffna district of Northern Province, Sri Lanka. It is among the country's sixteen holiest Buddhist shrines. According to contemporary history, the Gautama Buddha visited the site after five years of attaining Enlightenment to settle the dispute between two warring Naga kings, Chulodara and Mahodara. Ancient history according to the Mahavamsa chronicles and the Tamil Buddhist epic Manimekalai mentions a gem-studded throne and a stone with the Buddha’s footprint at the island Nainativu, which pilgrims from India visited.",
+            "placeImage": "https://ceylonpages.lk/wp-content/uploads/2020/03/Nagadeepa-Purana-Viharaya-Cover-Image.jpg"
+        },
+        {
+            "placeId": 3,
+            "placeTile": "National Shrine of Our Lady of Madhu",
+            "placeDescription": "The Shrine of Our Lady of Madhu is a Roman Catholic Marian shrine in Mannar district of Sri Lanka. With a history of more than 400 years, the shrine acts as a center of pilgrimage and worship for Sri Lankan Catholics. The site is considered as the holiest Catholic shrine in the island and is a well known place of devotion for both Tamil and Sinhalese Catholics. The church has been a symbol of unity not just between Tamils and Sinhalese but also between people of different religions, including Buddhists, Hindus and Protestants. Pope Benedict XV granted the image a pontifical decree of coronation on 7 April 1921 via the Prefect of the Sacred Congregation for the Propagation of the Faith, Cardinal Willem Marinus van Rossum. The rite of coronation was executed on 2 July 1924. Attendance for the August festival at times almost reached one million people before the outbreak of the Sri Lankan Civil War. Situated in the heart of the conflict zone, pilgrimage to this shrine was dramatically affected by the civil war with the presence of refugee camps around the shrine complex. It was shelled a number of times.",
+            "placeImage": "https://www.lovesrilanka.org/wp-content/uploads/2020/06/LSL_B2_Shrine-Of-Our-Lady-Of-Madhu_1920x700.jpg"
+        },
+        {
+            "placeId": 4,
+            "placeTile": "Mannar Island",
+            "placeDescription": "Mannar Island, formerly spelt Manar Island, which lies off the north-western coast of Sri Lanka, is part of Mannar District, Sri Lanka. It is linked to the main island of Sri Lanka by a causeway and the Mannar Bridge, which carries the A14 highway, and a railway bridge. It has an area of about 130 square kilometres, mainly covered with vegetation and sand.",
+            "placeImage": "https://duqjpivknq39s.cloudfront.net/2019/03/800x750-24.jpg"
+        },
+        {
+            "placeId": 5,
+            "placeTile": "Neduntheevu",
+            "placeDescription": "Neduntheevu or Nedunthivu is an island in the Palk Strait, northern Sri Lanka. This island is named as Delft in the Admiralty Chart unlike the other islands, whose names are Tamil. The island's area is 50 km² and it is roughly oval-shaped. Its length is 8 km and its maximum width about 6 km. Neduntheevu is a flat island surrounded by shallow waters and beaches of coral chunks and sand. It is home to a small population of Tamil people, mostly living in quiet compounds close to the northern coast. The vegetation is of a semi-arid tropical type, with palmyra palms, dry shrubs and grasses that grow on the pale grey porous coralline soil. Papayas and bananas grow close to the local people's homes. In the western coast of the island there are remains of a 1000-year-old temple built by the Chola Dynasty as well as the ruins of a Dutch colonial fort. The water is slightly brackish, and it is taken from shallow wells using buckets made from palmyra palm leaves. A naval battle was fought off the coast of the island in 2008 during the Sri-Lankan Civil War. There are feral ponies on the island, descendants of forebears abandoned there in the Dutch period.",
+            "placeImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/85/cc/7b/neduntheevu-delft-island.jpg?w=1200&h=-1&s=1"
+        },
+        {
+            "placeId": 6,
+            "placeTile": "Jaffna Public Library",
+            "placeDescription": "Jaffna Public Library is located in Jaffna, Sri Lanka. It is one of Jaffna's most notable landmarks, and is run by the Jaffna Municipal Council. The library was built in 1933 and burnt in 1981. During the early 1980s, it was one of the biggest libraries in Asia, containing over 97,000 books and manuscripts. Over a million books burned in the 1981 arson attack. Some ancient Sinhala and Tamil books were never recovered. In 2001, rehabilitation of the library was completed, with new structures being built and new books received, although its old books and manuscripts were not replaced. It is Sri Lanka's second main public Library, only rivalled by Colombo Public Library The building's classical lines and beautiful proportions make it stand out architecturally. It contains lush gardens and has been modernized with new facilities such as free-wifi that was added in 2016",
+            "placeImage": "https://www.lovesrilanka.org/wp-content/uploads/2020/04/Jaffna-Library-1920.jpg"
+        },
+        {
+            "placeId": 7,
+            "placeTile": "Casuarina Beach",
+            "placeDescription": "Casuarina Beach is in Karainagar, Jaffna District, Sri Lanka, about 20 kilometres from Jaffna. The Casuarina Beach in Karainagar is also called and written as Casoorina, Cashoorina and few other variants. This is considered to be the best beach in the Jaffna Peninsula with white sand. The beach got its name due to the Casuarina trees along the beach.",
+            "placeImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fd/f5/e3/20180207-144351-largejpg.jpg?w=1200&h=-1&s=1"
+        },
+        {
+            "placeId": 8,
+            "placeTile": "BatticNainativu Nagapooshani Amman Templealoa",
+            "placeDescription": "Nainativu Nagapooshani Amman Temple [Tamil: நயினாதீவு நாகபூசணி அம்மன் கோயில், romanized: Nayiṉātīvu Nākapūcaṇi Am'maṉ Kōyil - Meaning: Nainativu; Nagapooshani; Amman ] is an ancient and historic Hindu temple located amidst the Palk Strait on the island of Nainativu, Sri Lanka. It is dedicated to Parvati who is known as Nagapooshani or Bhuvaneswari and her consort, Shiva who is named here as Nayinaar. The temple's fame is accredited to Adi Shankaracharya, a 9th-century Hindu philosopher, for identifying it as one of the prominent 64 Shakti Peethams in Shakti Peetha Stotram and its mention in the Brahmanda Purana. The temple complex houses four gopurams ranging from 20–25 feet in height, to the tallest being the eastern Raja Raja Gopuram soaring at 108 feet high. The temple is a significant symbol for the Tamil people, and has been mentioned since antiquity in Tamil literature, such as Manimekalai and Kundalakesi. The present structure was built during 1720 to 1790 after the ancient structure was destroyed by the Portuguese in 1620. The temple attracts around 1000 visitors a day, and approximately 5000 visitors during festivals",
+            "placeImage": "https://www.ceylonexpeditions.com/medias/media/big/378/nagapooshani-amman-temple-jaffna-ramayana-tours-sri-lanka-2.jpg"
+        }
+    ]
+}

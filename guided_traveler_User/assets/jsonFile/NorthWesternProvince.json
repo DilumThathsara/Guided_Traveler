@@ -1,0 +1,47 @@
+{
+    "province": "NorthWestern ",
+    "data": [
+        {
+            "placeId": 1,
+            "placeTile": "Yapahuwa Rock Fortress",
+            "placeDescription": "Built on a huge, 90 meter high rock boulder in the style of the Sigiriya rock fortress, Yapahuwa was a palace and military stronghold against foreign invaders. The palace and fortress were built by King Buvanekabahu I (1272–1284) in the year 1273.",
+            "placeImage": "https://www.attractionsinsrilanka.com/wp-content/uploads/2021/01/Yapahuwa-Rock-Fortress.jpg"
+        },
+        {
+            "placeId": 2,
+            "placeTile": "Sri Munneswaram Kovil",
+            "placeDescription": "Munneswaram temple is an important regional Hindu temple complex in Sri Lanka. It has been in existence at least since 1000 CE although myths surrounding the temple associate it with the popular Indian epic Ramayana, and its legendary hero-king Rama. The temple is one of the ancient Pancha Ishwarams dedicated to Shiva in the region. The temple complex is a collection of five temples, including a Buddhist temple. The central temple dedicated to Shiva is the most prestigious and biggest, and is popular amongst Hindus. The other temples are dedicated to Ganesha, Aiyanar and Kali. The Kali temple is also popular with Buddhists, who frequent the complex. Post-19th century, most of the devotees of all temples in the complex belong to the majority Sinhala Buddhist ethnic group; the temples, excluding the Ayyanayake and the Buddhist temple, are administered by families belonging to the minority Hindu Tamils. The temple is located in Munneswaram, a village with mixed Sinhala and Tamil population situated in the historic Demala Pattuva region in the Puttalam District.",
+            "placeImage": "https://image.jimcdn.com/app/cms/image/transf/dimension=650x10000:format=jpg/path/s78aa93f12b8b226c/image/i6d8d0449a5300931/version/1541523969/image.jpg"
+        },
+        {
+            "placeId": 3,
+            "placeTile": "Ridi Viharaya",
+            "placeDescription": "Ridi Viharaya or Silver Temple is a 2nd-century BCE Theravada Buddhist temple in the village of Ridigama, Sri Lanka. Built during the reign of Dutthagamani of Anuradhapura, the temple is considered as the place where the silver ore, which provided silver to complete Ruwanwelisaya; one of the largest stupa in Sri Lanka, was discovered. According to the chronicles Mahavamsa and Thupavamsa, the Ridi Viharaya complex was built in gratitude for helping him cherish his dream of completing Ruwanwelisaya",
+            "placeImage": "https://www.attractionsinsrilanka.com/wp-content/uploads/2020/04/Ridi-Viharaya.jpg"
+        },
+        {
+            "placeId": 4,
+            "placeTile": "Kurunegala",
+            "placeDescription": "Kurunegala is a major city in Sri Lanka. It is the capital city of the North Western Province and the Kurunegala District. Kurunegala was an ancient royal capital for 50 years, from the end of the 13th century to the start of the 14th century. It is at the junction of several main roads linking to other important parts of the country. It is about 94 kilometres from Colombo, 42 kilometres from Kandy and 51 kilometres from Matale. Located at an altitude of 116 metres above sea level, Kurunegala is surrounded by coconut plantations and rubber estates. There are eight very noticeable large rocks that encircle and dominate the city. Kurunegala's rocks rise from the plain below and have characteristic names, six of which come from the animals that they are imagined to represent. The largest among them is Ethagala or the 'Elephant Rock', reaches 325 metres. The shape of Ethagala resembles an elephant",
+            "placeImage": "https://www.urlaub-sr-lanka.info/img/2012/01/kurunegala.jpg"
+        },
+        {
+            "placeId": 5,
+            "placeTile": "Kalpitiya Diving Center",
+            "placeDescription": "Kalpitiya Diving Center (KDC) is an identical base location for safe diving and exploring typical Sri Lankan coral reef and reef fishes. Recreational divers can learn scuba diving and make guided dive trips to most scenic reef destinations in Kalpitiya.",
+            "placeImage": "https://www.attractionsinsrilanka.com/wp-content/uploads/2020/07/Kalpitiya-Diving-Center-1.jpg"
+        },
+        {
+            "placeId": 6,
+            "placeTile": "Wilpattu National Park",
+            "placeDescription": "Wilpattu National Park is a popular destination for spotting the majestic Sri Lankan Leopard, which is an endemic sub species. Being the largest cat and the top predator of the island, it can easily be seen during dawn and dusk fearlessly prowling and basking by the villu and tank habitats.",
+            "placeImage": "http://1.bp.blogspot.com/-T2sm_lLuYVg/Ujtguu3FZyI/AAAAAAAAKZI/um0dCT4l63Y/s1600/Wilpattu+National+Park.jpg"
+        },
+        {
+            "placeId": 7,
+            "placeTile": "Kitesurfing Lanka",
+            "placeDescription": "",
+            "placeImage": "https://www.bestoflanka.com/images/slider/best-things-to-do-in-sri-lanka/adventure-water-sports-in-sri-lanka/adventure-water-sports-in-sri-lanka-kalpitiya/01.jpg"
+        }
+    ]
+}

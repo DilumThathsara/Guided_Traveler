@@ -1,0 +1,87 @@
+{
+    "province": "southern",
+    "data": [
+        {
+            "placeId": 1,
+            "placeTile": "Yala National Park",
+            "placeDescription": "Go on a Wild Life Safari and explore a beautiful combination of a national park and reservation where leopards, peacocks, elephants, crocodiles, sloth bears, spotted dear, jackals, sambars and other exotic birds call home. The best season to visit is between February and July. Taru Villas – Yala makes for the perfect base to explore the Yala National Park, as well as Udawalawe and Bundala National Parks as well.",
+            "placeImage": "https://travellers.lk/wp-content/uploads/2020/05/Yala-2560X1400.jpg"
+        },
+        {
+            "placeId": 2,
+            "placeTile": "Mulkirigala Rock Temple",
+            "placeDescription": "Mulkirigala is located close to Tangalle and is considered one of the South’s finest ancient monuments. It is made up of intricately-decorated ancient cave temples carved out of the flanks of an enormous rock outcrop. The temples were built on four separate levels at different times in history dating back to 3rdCentury B.C. Each level is connected by close to 500 steps, with wonderful views from the summit. Doing this trek will help you justify all the glorious meals you will no doubt be dining on at Taru Villas.",
+            "placeImage": "https://d2r2v0jxjsbm0p.cloudfront.net/2019/03/MULKIRIGALA-ROCK-TEMPLE-1.jpg"
+        },
+        {
+            "placeId": 3,
+            "placeTile": "Kataragama Temple",
+            "placeDescription": "Kataragama is one of the holiest sites on the island most sacred to Buddhists and Hindus alike; pilgrims come here all year round to worship at the shrine of the god Kataragama. The temples come alive in the evenings when religious rituals take place as devotees arrive with trays of offerings to the god and where you’ll hear the sound of conch shells being blown and the beats of many drums.",
+            "placeImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/de/d7/b9/kataragama-temple.jpg?w=1200&h=1200&s=1"
+        },
+        {
+            "placeId": 4,
+            "placeTile": "Whale & Dolphin Watching",
+            "placeDescription": "Mirissa is one of the perfect spots to sight the largest mammal on earth. Whale and dolphin watching has become one of the best things to do in the south and you will find a number of operators around this area offering trips to the Indian Ocean for dolphins, whales, and turtles spotting. The best time to visit is from December to March.",
+            "placeImage": "http://www.sundaytimes.lk/141102/uploads/nfjd-3.jpg"
+        },
+        {
+            "placeId": 5,
+            "placeTile": "Coconut Tree Hill",
+            "placeDescription": "This is one of the prettiest, very Instagram-worthy spots on the South. It is situated at the end of Mirissa Beach and completely covered with coconut trees overlooking the ocean.",
+            "placeImage": "https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,h_600,q_auto,w_auto/v1/filestore/bkryykww10z2qmybbkpsl1xn3oko_1562164392_shutterstock_1379108219.jpg"
+        },
+        {
+            "placeId": 6,
+            "placeTile": "Jungle Playground Mirissa (Adventure Park)",
+            "placeDescription": "If you are traveling with friends or family and are after something a little bit more adventurous but not too far from the beach, you must visit the jungle playground. Designed and run by a European couple, it is a unique jungle trail with a range of different obstacles to experience such as jungle bowling, climbing and mini golf !",
+            "placeImage": "https://www.attractionsinsrilanka.com/wp-content/uploads/2020/03/Jungle-Playground-Mirissa.jpg"
+        },
+        {
+            "placeId": 7,
+            "placeTile": "Diving in Hikkaduwa",
+            "placeDescription": "Whether you’re a novice or expert diver, you will find some incredible diving locations in Hikkaduwa. There are few PADI dive schools and excursion operators to choose from and they can train adventurers as young as 8 years old. Enjoy free diving, swimming with large sea turtles or choose any of ten shipwrecks to explore at various depths.",
+            "placeImage": "https://www.srilankanexpeditions.lk/tour_img/1491555548Hikkaduwa-Discover-Scuba-Diving-for-adults_03.jpg"
+        },
+        {
+            "placeId": 8,
+            "placeTile": "Surfing at Weligama Beach",
+            "placeDescription": "Despite the many surf spots around the island, Weligama Beach is perfect for surfing beginners. It is quieter, more relaxed and ideal for family beach time.",
+            "placeImage": "https://thesurferweligama.com/wp-content/uploads/2022/10/185ca41d-9198-454b-95d2-ec7a6c270ff8bc41e43a-2743-4985-8620-1922c9401e28.jpeg"
+        },
+        {
+            "placeId": 9,
+            "placeTile": "Go Stilt Fishing",
+            "placeDescription": "Koggala Beach is one of many places where you can observe as fishermen lure their catch atop bamboo stilts close to the shore – a practice dating back to World War II. Should you wish to give it a try, the local fisherman will gladly give up their seat and share their fishing lines and bait with you for a tip. Fish bites the best early in the morning or evening, so go fishing earlier if you want bragging rights to a catch!",
+            "placeImage": "https://oddviser.com/photo/idea/1600/1548.jpg"
+        },
+        {
+        
+            "placeId": 10,
+            "placeTile": "Galle Fort",
+            "placeDescription": "Visit the historical Galle Fort built by the Portuguese in the early 1500s and further fortified by the Dutch. Tour the Maritime Museum, walk along its cobbled streets and take in the rich architecture while enjoying a gelato. The Fort boasts hidden cafes, stunning boutique hotels, the Galle Lighthouse, gem shops, art galleries, antique shops and so much more to explore.",
+            "placeImage": "https://iainlakewindsvilla.com/wp-content/uploads/2020/07/beach_inns_website_tours_900x500px_galle-3.jpg"
+        },
+        {
+        
+            "placeId": 11,
+            "placeTile": "Water Sports – Bentota River",
+            "placeDescription": "If you’re looking for a different kind of fun on the water, check out the different water sports available to do on the Bentota River. From jet skiing to banana boating, this will be fun for the whole family!",
+            "placeImage": "https://vtslanka.com/vts/wp-content/uploads/2017/09/water_sports-400x264.jpg"
+        },
+        {
+        
+            "placeId": 12,
+            "placeTile": "Kudawella Blow Hole – Dickwella",
+            "placeDescription": "Visit the site of the Hummanaya Blowhole and witness the only known blowhole in Sri Lanka. It is also considered to be the second largest blowhole in the world. The water is set to blow up to height between 25-30 meters!",
+            "placeImage": "https://media.timeout.com/images/102420085/750/422/image.jpg"
+        },
+        {
+        
+            "placeId": 13,
+            "placeTile": "Kosgoda Turtle Care",
+            "placeDescription": "Spend some time here to learn about huge efforts to increase the rate of hatching, and survival of baby turtles in their very initial stages. You will also see how they take care of sick or injured adult turtles before releasing them back into the ocean when they are ready. There are also volunteer programs and awareness programs for local and international visitors, if that is your thing. Five species of sea turtles lay eggs along the west and south coasts of Sri Lanka and all of them are on the endangered list.",
+            "placeImage": "https://srilankafinder.com/wp-content/uploads/2017/12/Kosgoda-Sea-Turtle-Conservation-Project-700x500.jpg"
+        }
+    ]
+}

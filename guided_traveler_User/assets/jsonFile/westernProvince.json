@@ -1,0 +1,66 @@
+{
+    "province": "western",
+    "data": [
+        {
+            "placeId": 1,
+            "placeTile": "Galle Face Green",
+            "placeDescription": "Galle Face is a 5 ha ocean-side urban park, which stretches for 500 m along the coast, in the heart of Colombo, the financial and business capital of Sri Lanka. The promenade was initially laid out in 1859 by Governor Sir Henry George Ward, although the original Galle Face Green extended over a much larger area than is seen today. The Galle Face Green was initially used for horse racing and as a golf course, but was also used for cricket, polo, football, tennis, and rugby. ",
+            "placeImage": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQ17Qjcn8RH99Lz2gbk9QE-cxGLxR8_c0A0YeXCVdQxuNTIqeWHI5Aq7AJZkMF_ta2jdU0VclAQTzD0D8vejNR6tQ"
+        },
+        {
+            "placeId": 2,
+            "placeTile": "Viharamahadevi Park",
+            "placeDescription": "Viharamahadevi Park is a public park located in Cinnamon Gardens, in Colombo, situated in front of the colonial-era Town Hall in Sri Lanka. It was built by the British colonial administration and is the oldest and largest park of Colombo. The park was originally named 'Victoria Park' after Queen Victoria but was renamed after Queen Viharamahadevi, the mother of King Dutugamunu on July 18, 1958. During World War II it was occupied by the British Army with Australian 17th Brigade based at Victoria Park. After the war the park was restored and open to the public in 1951. There used to be a cricket ground in the park, which was used for first-class cricket between 1927 and 1995. Ceylon played against a touring English team there in 1927 and against an Australian team in 1935. The park features include a huge Buddha statue which replaced the statue of Queen Victoria which originally stood there, and a series of water fountains. It also includes a mini zoo, a children's play area and a BAC Jet Provost. There are Muscovy ducks in the park. They swim in the artificial lake and walk on the grass beside it.",
+            "placeImage": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR5WRP6p-lGCUbZnFatlunlivxQevGfl0cUFsUSgrw7aXvnN9Owb0NAuOKP3cCQ3-_2BHbtziz5s9_yNPk40FL65A"
+        },
+        {
+            "placeId": 3,
+            "placeTile": "Gangaramaya Temple",
+            "placeDescription": "Gangaramaya Temple is one of the most important temples in Colombo, Sri Lanka, being a mix of modern architecture and cultural essence. Located on the Beira Lake, it was completed in the late 19th century. ",
+            "placeImage": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/10/cover-for-temple-in-colombo-gangaramaya.jpg"
+        },
+        {
+            "placeId": 4,
+            "placeTile": "Kelaniya Raja Maha Viharaya",
+            "placeDescription": "The Kelaniya Raja Maha Vihara or Kelaniya Temple is a Buddhist temple in Kelaniya, Sri Lanka. It is located 11 km north-east of Colombo. The current chief incumbent is Venerable Professor Kollupitiye Mahinda Sangharakkhitha Thera. The temple has often been associated with the rise and fall of Sri Lanka, with the popular saying that as the Kelaniya temple rose, Sri Lanka rose and as it fell, the country and its administration fell. It has thus had a deep association with the political powers of the country. As such, the temple is frequently visited by politicians both government and opposition.",
+            "placeImage": "https://www.sundayobserver.lk/sites/default/files/styles/large/public/news/2019/01/18/z_p41-Kelaniya%E2%80%99s1.jpg?itok=kpzTqja8"
+        },
+        {
+            "placeId": 5,
+            "placeTile": "Seethawaka Wet Zone Botanic Gardens",
+            "placeDescription": "Seethawaka Botanical Garden, or Seethawaka Wet Zone Botanic Garden is a botanical garden located in Sri Lanka which mainly serves as a research area and a conservation area for threatened and vulnerable endemic plant species in the Sinharaja Rain Forest region. Improving export floriculture, ex-situ conservation of wet lowland plants, and bamboo cultivation are also promoted in this garden. The garden was opened to the public in late October 2014 and it is the most recently constructed botanical garden in Sri Lanka.",
+            "placeImage": "https://www.lakpura.com/images/LK94009642-03-E.JPG"
+        },
+        {
+            "placeId": 6,
+            "placeTile": "Beddagana Wetland Park",
+            "placeDescription": "",
+            "placeImage": "https://www.thingstodo.lk/wp-content/uploads/2019/06/Beddagana-Wetland-Park.jpg"
+        },
+        {
+            "placeId": 7,
+            "placeTile": "Lotus Tower",
+            "placeDescription": "This tower has designed in the shape of a lotus flower. The lotus flower represents purity in Sri Lankan culture. The construction of this lotus-shaped tower is primarily for communication purposes and to advance Sri Lankan tourism. The structure stands 350 meters (1,150 feet) tall and covers an area of 10.5 acres.",
+            "placeImage": "https://www.yamu.lk/wp-content/uploads/2022/10/Image-1.jpg"
+        },
+        {
+            "placeId": 8,
+            "placeTile": "negombo beach",
+            "placeDescription": "Negombo, Situated six kilometres, a mere stones throwaway from the International airport of Sri Lanka, is a characteristic predominantly Christian fishing town with narrow streets and small boutiques and many a historic churches to visit and see, with its routes running back to the arrival of the Portuguese. Negombo is an ideal place to enjoy the traditional fishing methods of Sri Lanka, the out rigger canoe, the swifter catamaran and the lagoon famous for its promfret, lagoon crab & lobster during season. A resort town dotted with many hotels and restaurants and the famous lagoon, where one could take a ride in a out rigger sailing canoe and experience the authentic fisherman’s life.",
+            "placeImage": "https://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2018/09/social1.jpg"
+        },
+        {
+            "placeId": 9,
+            "placeTile": "Water World Kelaniya",
+            "placeDescription": " Water World Lanka is one of Kelaniya’s most popular attractions and is home to South Asia’s first underwater tunnel aquarium. Located along Kelani River, the aquarium is home to a collection of over 500 fish species from all around the world including rare black diamond stingrays. You can even view piranha feedings and live shark dives. There's also a bird park that houses the world’s first aviary-themed river safari.  Tickets include entry to the aquarium, bird park and underwater tunnel, and there are special concessions for large groups. Spend at least two hours here; it’s best to visit on weekdays—it gets crowded on weekends and public holidays. ",
+            "placeImage": "https://travelsnappy.com/wp-content/uploads/2022/12/Untitled-design-4.jpg"
+        },
+        {
+        
+            "placeId": 10,
+            "placeTile": "Dehiwala Zoo",
+            "placeDescription": "Currently, Dehiwala Zoo houses 72 species of Mammals, 65 species of Birds, 31 species of Reptiles, 89 species of Fish, 03 families of Amphibians and 30 species of Butterflies etc. The total number of animals varies from 2500-3000 due to breeding and free living colonies of birds. Dehiwala Zoo has become famous among the visitors not only for collection of local and exotic animals but also for landscaping with lush greeneries. The Zoo supports and promotes conservation by breeding certain rare and endangered species through proper animal welfare.",
+            "placeImage": "https://www.dailynews.lk/sites/default/files/news/2022/07/04/pg6-1.jpg"
+        }
+    ]
+}
